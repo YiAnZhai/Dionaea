@@ -1,6 +1,6 @@
 FROM python:2.7-slim
 
-MAINTAINER atiger77
+MAINTAINER shuihushangui
 
 RUN apt-get update && apt-get install -y \
                 gcc \
